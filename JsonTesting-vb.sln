@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SoftDev", "SoftDev\SoftDev.vbproj", "{EAC0F612-A279-0E16-3734-662767356B2E}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "SoftDev", "SoftDev\SoftDev.vbproj", "{EAC0F612-A279-0E16-3734-662767356B2E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "data", "data", "{78F9363B-F0E6-4261-8490-6550F6F341D1}"
 	ProjectSection(SolutionItems) = preProject
@@ -11,7 +11,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "data", "data", "{78F9363B-F
 		example.json = example.json
 	EndProjectSection
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SoftDev.Tests", "SoftDev.Tests\SoftDev.Tests.vbproj", "{65FF6309-8D12-05DE-0126-1432532657CE}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "SoftDev.Tests", "SoftDev.Tests\SoftDev.Tests.vbproj", "{65FF6309-8D12-05DE-0126-1432532657CE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

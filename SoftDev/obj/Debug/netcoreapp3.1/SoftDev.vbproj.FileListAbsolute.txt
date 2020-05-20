@@ -1,0 +1,4 @@
+C:\Users\tomin\source\repos\vb-vs-json-testing\SoftDev\obj\Debug\netcoreapp3.1\SoftDev.vbprojAssemblyReference.cache
+C:\Users\tomin\source\repos\vb-vs-json-testing\SoftDev\obj\Debug\netcoreapp3.1\SoftDev.vbproj.CoreCompileInputs.cache
+C:\Users\tomin\source\repos\vb-vs-json-testing\SoftDev\obj\Debug\netcoreapp3.1\SoftDev.AssemblyInfoInputs.cache
+C:\Users\tomin\source\repos\vb-vs-json-testing\SoftDev\obj\Debug\netcoreapp3.1\SoftDev.AssemblyInfo.vb

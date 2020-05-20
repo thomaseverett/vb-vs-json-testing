@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MSo4SDzTHUGgaiiXDuZBwVJ32QSrSYoaqOm2NGF9lqTfAbw7vzRAsCGQDmgy/s7kg16XaIa+ehBLwn3XZkKU+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tomin\\source\\repos\\vb-vs-json-testing\\SoftDev\\SoftDev.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tomin\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
