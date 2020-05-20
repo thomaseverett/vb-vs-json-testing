@@ -2,3 +2,14 @@ C:\Users\tomin\source\repos\vb-vs-json-testing\SoftDev\obj\Debug\netcoreapp3.1\S
 C:\Users\tomin\source\repos\vb-vs-json-testing\SoftDev\obj\Debug\netcoreapp3.1\SoftDev.vbproj.CoreCompileInputs.cache
 C:\Users\tomin\source\repos\vb-vs-json-testing\SoftDev\obj\Debug\netcoreapp3.1\SoftDev.AssemblyInfoInputs.cache
 C:\Users\tomin\source\repos\vb-vs-json-testing\SoftDev\obj\Debug\netcoreapp3.1\SoftDev.AssemblyInfo.vb
+C:\Users\tomin\source\repos\vb-vs-json-testing\SoftDev\bin\Debug\netcoreapp3.1\SoftDev.exe
+C:\Users\tomin\source\repos\vb-vs-json-testing\SoftDev\bin\Debug\netcoreapp3.1\SoftDev.deps.json
+C:\Users\tomin\source\repos\vb-vs-json-testing\SoftDev\bin\Debug\netcoreapp3.1\SoftDev.runtimeconfig.json
+C:\Users\tomin\source\repos\vb-vs-json-testing\SoftDev\bin\Debug\netcoreapp3.1\SoftDev.runtimeconfig.dev.json
+C:\Users\tomin\source\repos\vb-vs-json-testing\SoftDev\bin\Debug\netcoreapp3.1\SoftDev.dll
+C:\Users\tomin\source\repos\vb-vs-json-testing\SoftDev\bin\Debug\netcoreapp3.1\SoftDev.pdb
+C:\Users\tomin\source\repos\vb-vs-json-testing\SoftDev\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\tomin\source\repos\vb-vs-json-testing\SoftDev\obj\Debug\netcoreapp3.1\SoftDev.vbproj.CopyComplete
+C:\Users\tomin\source\repos\vb-vs-json-testing\SoftDev\obj\Debug\netcoreapp3.1\SoftDev.dll
+C:\Users\tomin\source\repos\vb-vs-json-testing\SoftDev\obj\Debug\netcoreapp3.1\SoftDev.pdb
+C:\Users\tomin\source\repos\vb-vs-json-testing\SoftDev\obj\Debug\netcoreapp3.1\SoftDev.genruntimeconfig.cache

@@ -1,6 +1,7 @@
 ﻿Imports NUnit.Framework
+Imports SoftDev.SoftDev
 
-Namespace SoftDev.Tests
+Namespace SoftDev.test
     Public Class TextAnalyticsTest
         Private example As TextAnalysis
 
